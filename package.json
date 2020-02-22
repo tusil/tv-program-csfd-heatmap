@@ -1,0 +1,24 @@
+{
+  "name": "tv-program-csfd-heatmap",
+  "version": "1.0.0",
+  "description": "Heatmapa televizniho programu, zobrazujici hodnoceni poradu na csfd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusil/tv-program-csfd-heatmap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusil/tv-program-csfd-heatmap/issues"
+  },
+  "homepage": "https://github.com/tusil/tv-program-csfd-heatmap#readme",
+  "dependencies": {
+    "csfd-api": "^1.1.4",
+    "fast-xml-parser": "^3.16.0"
+  }
+}
