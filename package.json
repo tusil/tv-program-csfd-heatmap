@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/tusil/tv-program-csfd-heatmap#readme",
   "dependencies": {
-    "csfd-api": "^1.1.4",
+    "csfd-api": "^1.2.1",
     "fast-xml-parser": "^3.16.0"
   }
 }
